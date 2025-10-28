@@ -1,68 +1,61 @@
-# PinFetcher
-Download Pinterest videos, images, and GIFs easily with PinFetcher.
-# PinFetcher
+ImgClutch
 
-**PinFetcher** is a free online tool that allows you to download **Pinterest videos**, **images**, and **GIFs** easily — with no watermark and no login required.
+Download images, videos, and GIFs easily with ImgClutch.
 
-Visit the live tool here 👉 [https://pinfetcher.com](https://pinfetcher.com)
+ImgClutch is a free online tool that allows you to download images, videos, and GIFs easily — with no watermark and no login required.
 
----
+Visit the live tool here 👉 https://imgclutch.com
 
-## ✨ Features
+✨ Features
 
-- 📥 Download Pinterest videos, images, and animated GIFs  
-- 🔗 Paste any public Pinterest URL  
-- ⚡ Fast and lightweight  
-- 🔒 100% Free, No login required  
-- 🎯 Mobile- and desktop-friendly  
+📥 Download images, videos, and animated GIFs
 
----
+🔗 Paste any public URL supported by the tool
 
-## 🌐 Live Demo
+⚡ Fast and lightweight
 
-Try it now on the official website:  
-👉 **[PinFetcher.com](https://pinfetcher.com)**
+🔒 100% Free, No login required
 
----
+🎯 Mobile- and desktop-friendly
 
-## 📸 Screenshots
+🌐 Live Demo
+
+Try it now on the official website:
+👉 ImgClutch.com
+
+📸 Screenshots
 
 Coming soon...
 
----
+🚀 How It Works
 
-## 🚀 How It Works
+Copy the link of any media you want to download
 
-1. Copy the link of any public Pinterest pin  
-2. Paste it into the input field on [PinFetcher](https://pinfetcher.com)  
-3. Click **Download**  
-4. Select your media format and save it to your device
+Paste it into the input field on ImgClutch
 
----
+Click Download
 
-## 🛠️ Built With
+Select your media format and save it to your device
 
-- HTML, CSS, JavaScript (Frontend)  
-- PHP / Node.js (depending on your backend)  
-- Pinterest scraping/parsing techniques  
-- No third-party API required
+🛠️ Built With
 
----
+HTML, CSS, JavaScript (Frontend)
 
-## 📌 Disclaimer
+PHP / Node.js (depending on your backend)
 
-This tool is for educational and personal use only. PinFetcher does **not** host or store any Pinterest content on its servers.
+Web scraping/parsing techniques
 
----
+No third-party API required
 
-## 🌟 Support & Contribute
+📌 Disclaimer
+
+This tool is for educational and personal use only. ImgClutch does not host or store any media content on its servers.
+
+🌟 Support & Contribute
 
 Want to contribute or improve this tool? Fork this repo, open issues, or submit PRs.
 
----
+🔗 Visit Website
 
-## 🔗 Visit Website
-
-👉 **[https://pinfetcher.com](https://pinfetcher.com)** — your go-to Pinterest downloader
-
----
+👉 https://imgclutch.com
+ — your go-to media downloader
